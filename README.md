@@ -1,2 +1,9 @@
-# about
-about evan's minions
+# Evan's minions
+Build something
+
+## Members
+- Rex
+- Raymund
+- Evan
+- Jim
+- Mico
